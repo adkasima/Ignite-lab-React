@@ -8,6 +8,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -36,6 +37,10 @@ O Projeto é uma copia da plataforma de eventos da Rocketseat.
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/m1R13oKLppoWZtaO23BdyD/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## ❤ Deploy
+
+O deploy da aplicação foi feito na plataforma [VERCEL](https://www.vercel.com/). Para visualizá-lo, clique [AQUI](https://ignite-lab-react-zeta-one.vercel.app).
 
 ## :memo: Licença
 
